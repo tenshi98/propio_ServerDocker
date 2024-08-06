@@ -5,12 +5,12 @@ Tiene instalado dos discos duros de 4TB cada uno (aparte del que se utiliza para
 ### Software instalado
 - Cockpit para la administración del equipo, la instalación de actualizaciones, etc.
 - Portainer para la administración de los otros contenedores.
-- Jellyfin para la administración de la biblioteca multimedia (películas, series, música, colecciones de imágenes, etc.), permite el acceso a traves de la red con el navegador o con la aplicación correspondiente en el caso de los televisores y celulares.
+- Jellyfin para la administración de la biblioteca multimedia (películas, series, música, colecciones de imágenes, etc.), permite el acceso a través de la red con el navegador o con la aplicación correspondiente en el caso de los televisores y celulares.
 - Nginx Reverse Proxy como bloqueador de anuncios y publicidad en los sitios web visitados sin la necesidad de instalar complementos en los navegadores, desgraciadamente no bloquea la publicidad de Youtube.
 - OpenVPN para navegar a través de una red VPN para ciertos casos en que sea necesario, normalmente esta desactivado.
 
-### Software instalado
-Despues de la instalación se abre una consola y se ejecuta lo siguiente:
+### Instalación y configuración inicial
+Después de la instalación se abre una consola y se ejecuta lo siguiente:
 
 ```php
 #Verifico la configuración actual
