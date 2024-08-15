@@ -59,6 +59,26 @@ https://raw.githubusercontent.com/ntv-one/portainer/main/template.json
 https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
 ```
 
+### Imágenes
+<table>
+        <tr>
+                <td width="33%" style="vertical-align: top;">
+                        <div align="center">
+                                <img src="https://raw.githubusercontent.com/tenshi98/propio_ServerDocker/main/src/Image001.jpg" width="100%" alt="Image001">
+                        </div>
+                </td>
+                <td width="34%" style="vertical-align: top;">
+                        <div align="center">
+                                <img src="https://raw.githubusercontent.com/tenshi98/propio_ServerDocker/main/src/Image002.jpg" width="100%" alt="Image002">
+                        </div>
+                </td>
+                <td width="33%" style="vertical-align: top;">
+                        <div align="center">
+                                <img src="https://raw.githubusercontent.com/tenshi98/propio_ServerDocker/main/src/Image003.jpg" width="100%" alt="Image003">
+                        </div>
+                </td>
+        </tr>
+</table>
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
